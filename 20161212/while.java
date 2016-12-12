@@ -5,11 +5,11 @@ public class while{
 		 	System.out.println(n);
 		 	n++;
 
-		 	if (n == 50) {
+		 	if (n==50) {
 		 		break;
 		 	}
 
 		 }
-
-	}
+   }
+	
 }
